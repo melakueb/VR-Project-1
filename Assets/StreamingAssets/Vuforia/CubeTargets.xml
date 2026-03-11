@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="triangle" size="10.000000 10.000000" />
+    <ImageTarget name="octagon" size="10.000000 10.000000" />
+    <ImageTarget name="merg" size="10.000000 10.000000" />
+    <ImageTarget name="greaterless" size="10.000000 10.000000" />
+    <ImageTarget name="cube" size="10.000000 10.000000" />
+    <ImageTarget name="circle" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
