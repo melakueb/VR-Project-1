@@ -16,7 +16,7 @@ The project represents **Napa Valley, California**, which I visited last summer 
 ## Artifacts
 
 ### Scene Overview
-![Scene](/images/scene.png)
+![Scene](https://github.com/melakueb/VR-Project-1/blob/main/images/scene.png)
 This screenshot shows the AR knick-knack scene appearing on top of the merge cube when detected by the webcam. Each side of the cube displays readable information using world-space UI text panels.
 
 Cube faces include:
@@ -33,20 +33,20 @@ Cube faces include:
 | Model | Source |
 |------|------|
 | Green Bush | [Link for Bush](https://www.fab.com/listings/581e1057-ee3e-4c64-bf85-4ea5a3194a0c)|
-![Bush](/images/bush.png)
+![Bush](https://github.com/melakueb/VR-Project-1/blob/main/images/bush.png)
 | PSX Old House | [Link for House](https://www.fab.com/listings/88a25b2a-9dc1-4e5d-8aca-746e1fff91fb)|
-![House](/images/house.png)
+![House](https://github.com/melakueb/VR-Project-1/blob/main/images/house.png)
 | Wine Barrel | [Link for Barrel](https://www.fab.com/listings/e629a77a-566b-4ddb-96e0-9a314e3ea5f6)|
-![Barrel](/images/barrel.png)
+![Barrel](https://github.com/melakueb/VR-Project-1/blob/main/images/barrel.png)
 
 #### Models Created by Me
 
 | Model | Creation Method |
 |------|------|
 | Grapes | Generated using Meshy AI and modified in Blender |
-![Grapes](/images/grapes.png)
+![Grapes](https://github.com/melakueb/VR-Project-1/blob/main/images/grapes.png)
 | Wine Glass | Created in Blender following a tutorial |
-![Scene](/images/wine.png)
+![Scene](https://github.com/melakueb/VR-Project-1/blob/main/images/wine.png)
 
 Wine glass tutorial used:  
 [How to create a wine glass in 1 Minute in Blender Tutorial](https://www.youtube.com/watch?v=4edZZAm-qdQ&msockid=484f7d551e8411f1b36e82125a28847f)
