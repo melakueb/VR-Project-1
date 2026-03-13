@@ -11,6 +11,10 @@ The project represents **Napa Valley, California**, which I visited last summer 
 **GitHub Repository:**  
 [VR-Project-1](https://github.com/melakueb/VR-Project-1)
 
+
+## Demo Video
+[Demo on Kaltura](https://uc.mediaspace.kaltura.com/media/1_fvrndbp5)
+
 ---
 
 ## Artifacts
